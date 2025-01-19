@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Categories on Hambook博客</title>
+        <title>Categories on Hambook官方博客</title>
         <link>https://superknight.github.io/hambook-blog/categories/</link>
-        <description>Recent content in Categories on Hambook博客</description>
+        <description>Recent content in Categories on Hambook官方博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Hambook博客空间</copyright><atom:link href="https://superknight.github.io/hambook-blog/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>Hambook博客空间</copyright><atom:link href="https://superknight.github.io/hambook-blog/categories/feed.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hambook</title>
         <link>https://superknight.github.io/hambook-blog/categories/test/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
