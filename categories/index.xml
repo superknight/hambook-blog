@@ -6,7 +6,7 @@
         <description>Recent content in Categories on Hambook官方博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Hambook博客空间</copyright><atom:link href="https://superknight.github.io/hambook-blog/categories/feed.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>Hambook博客空间</copyright><atom:link href="https://superknight.github.io/hambook-blog/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hambook</title>
         <link>https://superknight.github.io/hambook-blog/categories/test/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

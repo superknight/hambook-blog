@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Pages on Hambook官方博客</title>
-        <link>https://superknight.github.io/hambook-blog/page/</link>
-        <description>Recent content in Pages on Hambook官方博客</description>
+        <title>Hambook官方博客</title>
+        <link>https://superknight.github.io/hambook-blog/</link>
+        <description>Recent content on Hambook官方博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Hambook博客空间</copyright>
-        <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://superknight.github.io/hambook-blog/page/feed.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 19 Jan 2025 15:17:05 +0800</lastBuildDate><atom:link href="https://superknight.github.io/hambook-blog/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hambook-IOS单手看博客神器上线啦</title>
+        <link>https://superknight.github.io/hambook-blog/p/hambook-ios%E5%8D%95%E6%89%8B%E7%9C%8B%E5%8D%9A%E5%AE%A2%E7%A5%9E%E5%99%A8%E4%B8%8A%E7%BA%BF%E5%95%A6/</link>
+        <pubDate>Sun, 19 Jan 2025 15:17:05 +0800</pubDate>
+        
+        <guid>https://superknight.github.io/hambook-blog/p/hambook-ios%E5%8D%95%E6%89%8B%E7%9C%8B%E5%8D%9A%E5%AE%A2%E7%A5%9E%E5%99%A8%E4%B8%8A%E7%BA%BF%E5%95%A6/</guid>
+        <description>&lt;h1 id=&#34;hambook-app-介绍&#34;&gt;Hambook App 介绍
+&lt;/h1&gt;&lt;p&gt;Hambook 是一款专为 iOS 用户设计的博客阅读应用，旨在为用户提供简洁、高效且愉悦的阅读体验。无论你是技术爱好者、文学爱好者，还是喜欢浏览各类博客内容的用户，Hambook 都能满足你的需求。我们致力于打造一款专注于博客阅读的工具，帮助用户更轻松地发现、收藏和管理自己感兴趣的内容。&lt;/p&gt;</description>
+        </item>
+        <item>
         <title>归档</title>
         <link>https://superknight.github.io/hambook-blog/archives/</link>
         <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
