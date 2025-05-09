@@ -1,0 +1,12 @@
+# robots.txt for https://blog.hambook.top/
+User-agent: *
+Allow: /
+
+# 禁止爬虫访问部分目录（如有必要）
+# Disallow: /private/
+
+# 站点地图
+Sitemap: https://blog.hambook.top/sitemap.xml
+
+# 抓取延迟，避免对服务器造成过大压力
+Crawl-delay: 10 
