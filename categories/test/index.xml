@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Hambook on Hambook官方博客</title>
-        <link>https://superknight.github.io/hambook-blog/categories/test/</link>
+        <link>https://blog.hambook.top/categories/test/</link>
         <description>Recent content in Hambook on Hambook官方博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Hambook博客空间 © 2025. 官方网站 [Hambook.top](https://hambook.top)</copyright><atom:link href="https://superknight.github.io/hambook-blog/categories/test/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>Hambook博客空间 © 2025. 官方网站 [Hambook.top](https://hambook.top)</copyright><atom:link href="https://blog.hambook.top/categories/test/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

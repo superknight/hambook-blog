@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Hambook官方博客</title>
-        <link>https://superknight.github.io/hambook-blog/</link>
+        <link>https://blog.hambook.top/</link>
         <description>Recent content on Hambook官方博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Hambook博客空间 © 2025. 官方网站 [Hambook.top](https://hambook.top)</copyright>
-        <lastBuildDate>Fri, 09 May 2025 21:15:03 +0800</lastBuildDate><atom:link href="https://superknight.github.io/hambook-blog/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 09 May 2025 21:15:03 +0800</lastBuildDate><atom:link href="https://blog.hambook.top/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>2025年5月9日全球新闻速览</title>
-        <link>https://superknight.github.io/hambook-blog/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5%E5%85%A8%E7%90%83%E6%96%B0%E9%97%BB%E9%80%9F%E8%A7%88/</link>
+        <link>https://blog.hambook.top/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5%E5%85%A8%E7%90%83%E6%96%B0%E9%97%BB%E9%80%9F%E8%A7%88/</link>
         <pubDate>Fri, 09 May 2025 21:15:03 +0800</pubDate>
         
-        <guid>https://superknight.github.io/hambook-blog/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5%E5%85%A8%E7%90%83%E6%96%B0%E9%97%BB%E9%80%9F%E8%A7%88/</guid>
+        <guid>https://blog.hambook.top/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5%E5%85%A8%E7%90%83%E6%96%B0%E9%97%BB%E9%80%9F%E8%A7%88/</guid>
         <description>&lt;img src="https://picsum.photos/id/199/1200/800" alt="Featured image of post 2025年5月9日全球新闻速览" /&gt;&lt;p&gt;&lt;img src=&#34;https://picsum.photos/id/28/4928/3264&#34;
 	
 	
@@ -137,10 +137,10 @@
         </item>
         <item>
         <title>2025年5月8日全球热点新闻汇总</title>
-        <link>https://superknight.github.io/hambook-blog/p/2025%E5%B9%B45%E6%9C%888%E6%97%A5%E5%85%A8%E7%90%83%E7%83%AD%E7%82%B9%E6%96%B0%E9%97%BB%E6%B1%87%E6%80%BB/</link>
+        <link>https://blog.hambook.top/p/2025%E5%B9%B45%E6%9C%888%E6%97%A5%E5%85%A8%E7%90%83%E7%83%AD%E7%82%B9%E6%96%B0%E9%97%BB%E6%B1%87%E6%80%BB/</link>
         <pubDate>Thu, 08 May 2025 20:36:25 +0800</pubDate>
         
-        <guid>https://superknight.github.io/hambook-blog/p/2025%E5%B9%B45%E6%9C%888%E6%97%A5%E5%85%A8%E7%90%83%E7%83%AD%E7%82%B9%E6%96%B0%E9%97%BB%E6%B1%87%E6%80%BB/</guid>
+        <guid>https://blog.hambook.top/p/2025%E5%B9%B45%E6%9C%888%E6%97%A5%E5%85%A8%E7%90%83%E7%83%AD%E7%82%B9%E6%96%B0%E9%97%BB%E6%B1%87%E6%80%BB/</guid>
         <description>&lt;img src="https://picsum.photos/id/168/1200/800" alt="Featured image of post 2025年5月8日全球热点新闻汇总" /&gt;&lt;p&gt;&lt;img src=&#34;https://picsum.photos/id/20/3670/2462&#34;
 	
 	
@@ -305,18 +305,18 @@
         </item>
         <item>
         <title>归档</title>
-        <link>https://superknight.github.io/hambook-blog/archives/</link>
+        <link>https://blog.hambook.top/archives/</link>
         <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://superknight.github.io/hambook-blog/archives/</guid>
+        <guid>https://blog.hambook.top/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>关于</title>
-        <link>https://superknight.github.io/hambook-blog/%E5%85%B3%E4%BA%8E/</link>
+        <link>https://blog.hambook.top/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://superknight.github.io/hambook-blog/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>https://blog.hambook.top/%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;p&gt;Hambook 是一款专为 iOS 用户设计的博客阅读应用，旨在为用户提供简洁、高效且愉悦的阅读体验。无论你是技术爱好者、文学爱好者，还是喜欢浏览各类博客内容的用户，Hambook 都能满足你的需求。我们致力于打造一款专注于博客阅读的工具，帮助用户更轻松地发现、收藏和管理自己感兴趣的内容。&lt;/p&gt;
 &lt;h2 id=&#34;hambook-是什么&#34;&gt;Hambook 是什么？
 &lt;/h2&gt;&lt;p&gt;Hambook 是一款专注于博客阅读的 iOS 应用。它的核心功能是为用户提供一个集中的平台，方便他们浏览和阅读各类博客文章。与其他综合性阅读应用不同，Hambook 专注于博客内容，剔除了繁杂的功能，让用户可以更专注于阅读本身。通过简洁的界面设计和流畅的操作体验，Hambook 希望能够成为博客爱好者的首选工具。&lt;/p&gt;
@@ -341,18 +341,18 @@
         </item>
         <item>
         <title>搜索</title>
-        <link>https://superknight.github.io/hambook-blog/search/</link>
+        <link>https://blog.hambook.top/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://superknight.github.io/hambook-blog/search/</guid>
+        <guid>https://blog.hambook.top/search/</guid>
         <description></description>
         </item>
         <item>
         <title>友情链接</title>
-        <link>https://superknight.github.io/hambook-blog/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</link>
+        <link>https://blog.hambook.top/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://superknight.github.io/hambook-blog/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</guid>
+        <guid>https://blog.hambook.top/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
