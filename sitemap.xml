@@ -3,26 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.hambook.top/</loc>
-    <lastmod>2025-07-21T23:12:31+08:00</lastmod>
+    <lastmod>2025-07-22T23:10:30+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://blog.hambook.top/p/2025-07-22%E5%85%A8%E7%90%83%E7%84%A6%E7%82%B9%E9%87%8F%E5%AD%90%E7%AA%81%E7%A0%B4%E5%8D%97%E6%9E%81%E5%86%B0%E8%9E%8D%E7%96%9F%E7%96%BE%E7%96%AB%E8%8B%97/</loc>
-    <lastmod>2025-07-21T23:12:31+08:00</lastmod>
+    <loc>https://blog.hambook.top/p/2025-07-23%E5%85%A8%E7%90%83%E7%84%A6%E7%82%B9/</loc>
+    <lastmod>2025-07-22T23:10:30+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
     <loc>https://blog.hambook.top/categories/</loc>
-    <lastmod>2025-07-21T23:12:31+08:00</lastmod>
+    <lastmod>2025-07-22T23:10:30+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
     <loc>https://blog.hambook.top/post/</loc>
-    <lastmod>2025-07-21T23:12:31+08:00</lastmod>
+    <lastmod>2025-07-22T23:10:30+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
     <loc>https://blog.hambook.top/tags/</loc>
+    <lastmod>2025-07-22T23:10:30+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://blog.hambook.top/tags/%E5%85%A8%E7%90%83%E6%96%B0%E9%97%BB/</loc>
+    <lastmod>2025-07-22T23:10:30+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://blog.hambook.top/tags/%E6%97%A5%E6%8A%A5/</loc>
+    <lastmod>2025-07-22T23:10:30+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://blog.hambook.top/categories/%E6%96%B0%E9%97%BB%E9%80%9F%E8%A7%88/</loc>
+    <lastmod>2025-07-22T23:10:30+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://blog.hambook.top/p/2025-07-22%E5%85%A8%E7%90%83%E7%84%A6%E7%82%B9%E9%87%8F%E5%AD%90%E7%AA%81%E7%A0%B4%E5%8D%97%E6%9E%81%E5%86%B0%E8%9E%8D%E7%96%9F%E7%96%BE%E7%96%AB%E8%8B%97/</loc>
     <lastmod>2025-07-21T23:12:31+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -42,22 +62,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://blog.hambook.top/tags/%E5%85%A8%E7%90%83%E6%96%B0%E9%97%BB/</loc>
-    <lastmod>2025-07-21T23:12:31+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://blog.hambook.top/tags/%E6%97%A5%E6%8A%A5/</loc>
-    <lastmod>2025-07-21T23:12:31+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
     <loc>https://blog.hambook.top/tags/%E6%96%87%E5%8C%96/</loc>
-    <lastmod>2025-07-21T23:12:31+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://blog.hambook.top/categories/%E6%96%B0%E9%97%BB%E9%80%9F%E8%A7%88/</loc>
     <lastmod>2025-07-21T23:12:31+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
